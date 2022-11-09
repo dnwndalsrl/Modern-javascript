@@ -1,0 +1,1 @@
+var person, $elem, _name, first_name, val1; // 변수는 쉼표로 구분해 여러 개를 한번에 선언할 수 있다. 하지만 가독성이 떨어지므로 권장x
